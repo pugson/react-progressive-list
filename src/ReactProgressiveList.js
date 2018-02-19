@@ -1,5 +1,5 @@
 // @flow
-import * as React from 'react';
+import React from 'react';
 import times from 'lodash/times';
 
 // [MC] Progressive load list items. By default it loads X rows first, then
